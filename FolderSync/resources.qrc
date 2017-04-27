@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>resources/open.png</file>
+        <file>resources/sync.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>resources/JuraDemiBold.ttf</file>
+    </qresource>
+</RCC>
